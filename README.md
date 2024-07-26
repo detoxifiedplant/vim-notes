@@ -363,9 +363,8 @@ not sorted in any particular order, might face some mistakes as well
 | Ctrl w | will delete word before cursor |
 | Ctrl u | will delete all character before cursor |
 | Ctrl r | will insert register content |
-| Ctrl % | will insert current file name  |
-| Ctrl a | will insert content of register "a |
-| Ctrl = | will take basic calculations |
+| % | shorthand for current file name  |
+| = | will take basic calculations |
 
 #### command line window
 |    |  |
